@@ -1,7 +1,49 @@
 
 
-## Scripts
-### `npm start`
+# `InQuotes`
+
+This project is create with React
+
+## Installation
+For install project in local env, you need:<br />
+
+### `nvm`
+you can follow the official guide for install<br />
+[https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+```sh
+# nvm : 0.38.0
+nvm -v
+```
+### `npm and node`
+you can follow this guide for install both<br />
+and for remove another versions<br />
+[https://reactgo.com/uninstall-node-npm-from-macos/](https://reactgo.com/uninstall-node-npm-from-macos/)
+
+```sh
+# npm : 7.11.2
+npm -v
+
+# node : v16.0.0
+npm -v
+```
+### `Clone project and Run`
+Open your terminal and then type<br />
+```sh
+$ git clone {the url to the GitHub repo}
+```
+This clones the repo<br />
+
+cd into the new folder and type
+```sh
+$ npm install
+```
+This installs the required dependencies
+
+To run the React project
+```sh
+$ npm start
+```
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
