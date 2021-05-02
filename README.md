@@ -2,7 +2,7 @@
 
 # `InQuotes`
 
-This project is create with React
+This application get a motivational phrases from most famous authors I used ReactJS, JavaScript, CSS, Html, Bootstrap
 
 ## Installation
 For install project in local env, you need:<br />
